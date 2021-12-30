@@ -1,0 +1,210 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.fws{
+	width: 100%;
+	text-align: center;
+	height: 20px;
+	color: #ffffff;
+	background: black;
+	font-weight: 200;
+	letter-spacing: 2.8px;
+	font-size: 10px;
+	padding: 10px;
+	font: inherit;
+	font-size: 12px;
+	position: fixed	;
+	padding: 0px;
+}
+.fws a{text-decoration: none; color: #ffffff;}
+
+.navbar	{
+	background: #fff;
+	width: 100%;
+	height: 75px;
+	position: fixed;
+}
+
+
+.navbar img{
+	width: 115px;
+	height: 36px;   
+	 padding: 27px;
+    padding-left: 164px;
+}
+.menu{
+	float: right; 
+	padding:15px;
+ 	padding-right: 135px;
+ }
+
+.menu ul li{
+	display: inline-block;
+	float: left;
+	padding-right: 30px;
+	line-height: 60px;
+	padding-left: 5px;
+	display: inline-block;
+}
+
+.menu a{
+	text-decoration: none;
+	color: #000;
+	font-family: serif;
+	font-weight: normal;
+	letter-spacing: 1px;
+}
+
+.img{
+	background: url('../image/tm1.jpg');
+	width: 100%;
+	min-height: 900px;
+	background-image: center;
+	background-position: center;
+	background-size: cover;
+	background-position: center;
+}
+
+.img p{
+	background: transparent;
+	color: #fff;
+	position: relative;
+	top: 430px;
+	left: 250px;
+	display: block;
+	width: 150px;
+	height: 50px;
+	background: #f5f5f526;
+	border-radius: 4px;
+	border:0.5px solid whitesmoke;
+
+}
+.img a{
+	text-decoration: none;
+	text-align: center;
+	padding: 12px;
+    line-height: 3;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 16px;
+    position: relative;
+}
+
+.main{
+	width: 100%;
+	height:auto;
+	background: #fff;
+}
+
+.a{
+	margin: auto;
+	display: block;
+	width: 85%;
+	height: 500;
+	background: red;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.b{
+	float: left	;
+}
+.b img{
+	width: 290px;
+	height: 290px;
+	padding: 10px;
+
+}
+
+.img2{
+	background: url('../image/white.jpg');
+	width: 100%;
+	min-height: 660px;
+	background-image: center;
+	background-position: center;
+	background-size: cover;
+	background-position: center;
+}
+
+.img2 p{
+	background: transparent;
+	color: #fff;
+	position: relative;
+	top: 430px;
+	left: 250px;
+	display: block;
+	width: 150px;
+	height: 50px;
+	background: #f5f5f526;
+	border-radius: 4px;
+	border:0.5px solid whitesmoke;
+
+}
+.img2 a{
+	text-decoration: none;
+	text-align: center;
+	padding: 12px;
+    line-height: 3;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 16px;
+    position: relative;
+}
+.img3{
+	background: url('../image/handmade.png');
+	width: 100%;
+	min-height: 500px;
+	background-image: center;
+	background-position: center;
+	background-size: cover;
+	background-position: center;
+}
+
+.img3 h1{
+	color: #fff;
+    padding-top: 170px;
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    letter-spacing: 1px;
+    font-style: normal;
+    font-weight: 600;
+}
+.img3 h2{
+	color: #fff;
+    padding-top: 14px;
+    margin: auto;
+    width: 20%;
+    text-align: center;
+    letter-spacing: 1px;
+    font-style: normal;
+    font-weight: 200;
+}
+
+.img3 p{
+	background: transparent;
+	color: #fff;
+	position: relative;
+	top: 31px;
+	left: 687px;
+	display: block;
+	width: 150px;
+	height: 50px;
+	background: #f5f5f526;
+	border-radius: 4px;
+	border:0.5px solid whitesmoke;
+	text-align: center;
+
+}
+.img3 a{
+	text-decoration: none;
+	text-align: center;
+	padding: 12px;
+    line-height: 3;
+    color: #fff;
+    letter-spacing: 1px;
+    font-size: 16px;
+    position: relative;
+}
